@@ -1,3 +1,2 @@
 # Spain
-
-- [Canary Island](./canary_islands.md)
+  - [Canary Islands](canary_islands.md)
