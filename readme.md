@@ -1,4 +1,4 @@
-# Family secret recipes
+# clan secret recipes
 
 - Pizza 
     - Base recipe complete 
